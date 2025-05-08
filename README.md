@@ -7,6 +7,6 @@ Dataset
 
 Due to file size limitations, the full dataset could not be included in this repository.
 For demonstration purposes, this repository includes a smaller sample containing the first 1,000 rows of the original data.
-If you would like access to the full dataset, please contact the author or use the external link provided below.
+If you would like access to the full dataset, use the link provided below.
 
 https://doi.org/10.17632/64cc5w5dxy.1
